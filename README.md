@@ -13,7 +13,7 @@ Image processing of 5,887 images show us a starting point for identifying Covid-
 - [Images](./images)
 - [Final Notebook](./lung_image_processing.ipynb)
 - [Keras Image Augmentation](./importing_images_with_keras.ipynb)
-- [Presentation Slides](./image_processing_presentation.pdf)
+- [Presentation Slides](./image_processing.pdf)
 
 ### Conclusion
 Nothing will currently replace official molecular laboratory tests to identify Covid-19. There is work to be done to improve the image processing model. I look forward to accessing additional images and finding other pre-trained models that focus on X-rays. The data set is unbalanced with more pneumonia cases than healthy which likely led to more healthy images being classified as pneumonia. However, this is preferable over unhealthy patients being told their healthy. The more precautions people take, the better and hopefully sooner the pandemic is controlled. 
